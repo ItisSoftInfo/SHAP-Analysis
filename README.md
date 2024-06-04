@@ -12,6 +12,6 @@ And for some people, both templates might work.
 
 Go to one of the above Templates by following links and look for **"download raw file"** button:
 
-Template 1: https://github.com/ItisSoftInfo/SHAP-Analysis/blob/main/SHAP%20Template%201.ipynb
+**Template 1 Link:** https://github.com/ItisSoftInfo/SHAP-Analysis/blob/main/SHAP%20Template%201.ipynb
 
-Template 2: https://github.com/ItisSoftInfo/SHAP-Analysis/blob/main/SHAP%20Template%202.ipynb
+**Template 2 Link:** https://github.com/ItisSoftInfo/SHAP-Analysis/blob/main/SHAP%20Template%202.ipynb
